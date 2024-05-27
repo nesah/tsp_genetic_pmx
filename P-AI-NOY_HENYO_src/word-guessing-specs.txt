@@ -6,9 +6,11 @@ Parent Selection Technique
   
 Crossover Technique
 - Single-point Crossover
+- Crossover Percent: 70%
 
 Mutation Technique
 - Random Mutation
+- Mutation Percent: 1%
 
 Stopping Technique
 - After 5000 generations or when the cost is zero
